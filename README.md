@@ -1,6 +1,6 @@
 # Region-Filling-and-Object-Removal
 
-An image inpainting tool based on the *Exemplar-Based Image Inpainting technique* by Criminisi el al using Python.
+An image inpainting tool based on the *Exemplar-Based Image Inpainting technique* by Criminisi el al, implemented using Python.
 
 ## Example 1:
 
